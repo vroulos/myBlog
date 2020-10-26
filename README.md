@@ -59,6 +59,9 @@
 ➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://vroulos.github.io/
 [course]: http://vsCodeHero.com
